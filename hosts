@@ -20,16 +20,16 @@
 #	127.0.0.1       localhost
 #	::1             localhost
 
-192.168.99.100    docker
-192.168.99.100    config-server
-192.168.99.100    eureka-server
-192.168.99.100    gateway-server
-192.168.99.100    zipkin
-192.168.99.100    keycloak
-192.168.99.100    zookeeper
-192.168.99.100    kafka
-192.168.99.100    redis
-192.168.99.100    rabbitmq
-192.168.99.100    elasticsearch
-192.168.99.100    logstash
-192.168.99.100    kibana
+3.142.137.111    docker
+3.142.137.111    config-server
+3.142.137.111    eureka-server
+3.142.137.111    gateway-server
+3.142.137.111    zipkin
+3.142.137.111    keycloak
+3.142.137.111    zookeeper
+3.142.137.111    kafka
+3.142.137.111    redis
+3.142.137.111    rabbitmq
+3.142.137.111    elasticsearch
+3.142.137.111    logstash
+3.142.137.111    kibana
